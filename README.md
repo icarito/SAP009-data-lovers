@@ -1,5 +1,7 @@
 # Data Lovers
 
+por Monique Andrade
+
 ## Índice
 
 * [1. Preâmbulo](#1-preâmbulo)
